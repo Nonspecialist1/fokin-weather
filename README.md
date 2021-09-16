@@ -1,2 +1,3 @@
-# fokin-weather
+# Fokin Weather
+
 React native expo 
